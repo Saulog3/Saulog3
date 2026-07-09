@@ -2,9 +2,13 @@
 
 🎓 Computer Engineering Student
 
-Sou estudante de Engenharia da Computação apaixonado por tecnologia, desenvolvimento de software e sistemas embarcados.
+Sou estudante de Engenharia da Computação apaixonado por tecnologia, desenvolvimento de software, segurança da informa, dados e sistemas embarcados.
+
+Após 13 anos atuando em Engenharia de Qualidade, estou construindo uma nova carreira em Desenvolvimento de Software, combinando minha experiência em engenharia com tecnologias modernas para criar soluções confiáveis ​​e práticas.
 
 Atualmente concentro meus estudos em desenvolvimento Backend, APIs REST, microcontroladores ESP32 e aplicações que resolvem problemas do mundo real.
+
+
 
 ---
 
@@ -90,18 +94,15 @@ Coleção de APIs REST desenvolvidas para estudo de arquitetura Backend.
 # 📈 GitHub
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saulog3&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulog3&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
 # 📫 Contato
 
-- LinkedIn
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-r-cunha/)
 - Email
 
 ---
