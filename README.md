@@ -3,7 +3,7 @@
 
 **Computer Engineering Student** • **Backend Developer** • **Embedded Systems Enthusiast**
 
-Sou estudante de Engenharia da Computação apaixonado por tecnologia, desenvolvimento de software e sistemas embarcados.
+Sou estudante de Engenharia da Computação apaixonado por tecnologia, segurança da informação, dados, desenvolvimento de software e sistemas embarcados.
 
 Após mais de uma década atuando na área de Engenharia da Qualidade, estou construindo minha carreira em Desenvolvimento de Software, desenvolvendo soluções que unem organização, confiabilidade e boas práticas de engenharia.
 
