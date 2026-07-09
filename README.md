@@ -1,14 +1,11 @@
-# Olá! 👋 Eu sou o Saulo Cunha
+```markdown
+# Olá, eu sou o Saulo 👋
 
-🎓 Computer Engineering Student
+**Computer Engineering Student** • **Backend Developer** • **Embedded Systems Enthusiast**
 
-Sou estudante de Engenharia da Computação apaixonado por tecnologia, desenvolvimento de software, segurança da informa, dados e sistemas embarcados.
+Sou estudante de Engenharia da Computação apaixonado por tecnologia, desenvolvimento de software e sistemas embarcados.
 
-Após 13 anos atuando em Engenharia de Qualidade, estou construindo uma nova carreira em Desenvolvimento de Software, combinando minha experiência em engenharia com tecnologias modernas para criar soluções confiáveis ​​e práticas.
-
-Atualmente concentro meus estudos em desenvolvimento Backend, APIs REST, microcontroladores ESP32 e aplicações que resolvem problemas do mundo real.
-
-
+Após mais de uma década atuando na área de Engenharia da Qualidade, estou construindo minha carreira em Desenvolvimento de Software, desenvolvendo soluções que unem organização, confiabilidade e boas práticas de engenharia.
 
 ---
 
@@ -16,28 +13,21 @@ Atualmente concentro meus estudos em desenvolvimento Backend, APIs REST, microco
 
 ### Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+- Python
+- C++
+- SQL
+- JavaScript
 
 ### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- FastAPI
+- Flask
+- REST APIs
 
 ### Banco de Dados
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- MySQL
+- SQLite
 
 ### Sistemas Embarcados
 
@@ -46,65 +36,61 @@ Atualmente concentro meus estudos em desenvolvimento Backend, APIs REST, microco
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- Git
+- Docker
+- Linux
 
 ---
 
-# 📌 Projetos em Destaque
+## 📌 Projetos em Destaque
 
-## 🌡️ Temp Catcher
+### 🌡️ Temp Catcher
 
 Sistema de monitoramento de temperatura utilizando ESP32.
 
-- até 12 sensores
-- API REST
+**Recursos**
+
+- Monitoramento de múltiplos sensores
+- API REST embarcada
 - Interface Web
-- Estrutura modular em C++
+- Arquitetura modular em C++
 
 ---
 
-## 🤖 Agenda AI
+### 🤖 Agenda AI
 
-Assistente inteligente utilizando IA + n8n para automação de agendamentos.
-
----
-
-## ⚡ APIs com FastAPI
-
-Coleção de APIs REST desenvolvidas para estudo de arquitetura Backend.
+Assistente inteligente para automação de agendamentos utilizando IA e n8n.
 
 ---
 
-# 📚 Atualmente estudando
+### ⚡ APIs com FastAPI
 
-- Engenharia de Software
+Coleção de APIs REST desenvolvidas para estudo de arquitetura Backend, autenticação e integração com banco de dados.
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de Software
 - Sistemas Embarcados
 - Estrutura de Dados
-- APIs REST
 - Docker
-- Linux
-- Arquitetura de Software
+- Engenharia de Software
 
 ---
 
-# 📈 GitHub
+## 🎯 Objetivo
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Saulog3&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulog3&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+Construir soluções simples, organizadas e confiáveis, sempre buscando aprender novas tecnologias e compartilhar conhecimento através dos projetos publicados neste perfil.
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-r-cunha/)
-- Email
+- LinkedIn: *https://www.linkedin.com/in/saulo-r-cunha/*
+- E-mail: *saulorg3@gmail.com*
 
 ---
 
-> *"Software is built one commit at a time."*
+> *"First, solve the problem. Then, write the code."* — John Johnson
+```
