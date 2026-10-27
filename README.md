@@ -1,5 +1,5 @@
 ```markdown
-# Olá, eu sou o Saulo 👋
+# Olá, eu sou o Saulo
 
 **Computer Engineering Student** • **Backend Developer** • **Embedded Systems Enthusiast**
 
@@ -9,7 +9,7 @@ Após mais de uma década atuando na área de Engenharia da Qualidade, estou con
 
 ---
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 ### Linguagens
 
@@ -42,9 +42,9 @@ Após mais de uma década atuando na área de Engenharia da Qualidade, estou con
 
 ---
 
-## 📌 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🌡️ Temp Catcher
+###  Temp Catcher
 
 Sistema de monitoramento de temperatura utilizando ESP32.
 
@@ -57,19 +57,19 @@ Sistema de monitoramento de temperatura utilizando ESP32.
 
 ---
 
-### 🤖 Agenda AI
+###  Agenda AI
 
 Assistente inteligente para automação de agendamentos utilizando IA e n8n.
 
 ---
 
-### ⚡ APIs com FastAPI
+###  APIs com FastAPI
 
 Coleção de APIs REST desenvolvidas para estudo de arquitetura Backend, autenticação e integração com banco de dados.
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - Arquitetura de Software
 - Sistemas Embarcados
@@ -79,13 +79,13 @@ Coleção de APIs REST desenvolvidas para estudo de arquitetura Backend, autenti
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Construir soluções simples, organizadas e confiáveis, sempre buscando aprender novas tecnologias e compartilhar conhecimento através dos projetos publicados neste perfil.
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - LinkedIn: *https://www.linkedin.com/in/saulo-r-cunha/*
 - E-mail: *saulorg3@gmail.com*
